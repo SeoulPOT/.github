@@ -175,6 +175,7 @@ chunks = [input_ids[i:i + 100] for i in range(0, len(input_ids), 100)]
   </p>
   <p class="message">
       <strong>승민 : </strong>
+      전체 서비스의 요구사항에 맞춰 인공지능을 탑재하는 과정이 얼마나 어렵고 복잡한지를 알 수 있었던 프로젝트였습니다. 쉽지 않은 과정이었지만 결과를 냈을때의 뿌듯함이 기억에 남습니다. 팀원분들 모두 남은 일정 유의미한 성과를 거두길 기원합니당!!
   </p>
   <p class="message">
       <strong>영빈 : </strong>
