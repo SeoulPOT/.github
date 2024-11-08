@@ -117,7 +117,7 @@
 
 <details>
   <summary><h2>📚 아키텍쳐</h2></summary>
-  <img src="https://github.com/user-attachments/assets/3672822f-8e68-49e6-90dd-4cd3338c1c05"  width="700"/>
+  <img src="https://github.com/user-attachments/assets/4f0a9af1-74a1-47a5-80a2-ae9b6e249903"  width="1000"/>
 </details>
 
 <details>
@@ -166,7 +166,7 @@ chunks = [input_ids[i:i + 100] for i in range(0, len(input_ids), 100)]
   </p>
   <p class="message">
       <strong>건우 :</strong>
-      텔레비전들과 함께했던 토이프로젝트. 어려웠던 게 참 많았지만, 팀원들이 있어서 해낼 수 있었습니다. 다들 최종 프로젝트때도 각자 위치에서 힘내요!!
+      우선 훌륭한 팀장님과 파트장님 덕분에 결과물을 낼 수 있었던 것 같습니다!! 다른 팀원분들도 각자 역할 잘 수행하시느라 정말 고생하셨어요. 한 사람도 빠짐없이 보고 배울 수 있었던 것 같아서 큰 행운이었던 프로젝트였고, 취업도 취업이지만 하고 싶은 일 다 잘 됐으면 좋겠습니다!! 어딜 가셔도 다들 잘할거고, 꼭꼭 항상 행복했으면 좋겠어요🍀
   </p>
   <p class="message">
       <strong>연규 : </strong>
