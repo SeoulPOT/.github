@@ -154,6 +154,7 @@ chunks = [input_ids[i:i + 100] for i in range(0, len(input_ids), 100)]
   </p>
   <p class="message">
       <strong>은진 : </strong>
+      추천 서비스 만들어가는 과정에서 정확한 기준 잡는 게 어려운 과정이었지만 해결하는 방법 공부하면서 좋았습니다! 팀 단위로 수행하면서 협업하는 법도 배워가고! 다양한 파트 경험 할 수 있게 해준 팀원들에게 고맙고! 다같이 열심히 해줘서 3개월 동안 힘들기 보다는 즐거움이 컸습니다! 팀원들 정말 감사합니다~~ 화이팅 😎 
   </p>
   <p class="message">
       <strong>종식 : </strong>
