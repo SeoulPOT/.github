@@ -160,6 +160,8 @@ chunks = [input_ids[i:i + 100] for i in range(0, len(input_ids), 100)]
   </p>
   <p class="message">
       <strong>해린 : </strong>
+      테레비들과 함께해서 즐거웠습니다. 이런저런 어려움도 팀원들 덕분에 여기까지 온 거 같아요.
+      다들 너무 고생했고 마지막까지 힘내봐여 😉
   </p>
   <p class="message">
       <strong>건우 :</strong>
@@ -167,6 +169,8 @@ chunks = [input_ids[i:i + 100] for i in range(0, len(input_ids), 100)]
   </p>
   <p class="message">
       <strong>연규 : </strong>
+      처음부터 끝까지 하나의 프로젝트를 함께할 수 있어서 즐거웠습니다.
+      맡은 역할에 대한 책임감의 중요성을 느끼게 되었고, 남은 기간 끝까지 화이팅해요 ~ !
   </p>
   <p class="message">
       <strong>승민 : </strong>
